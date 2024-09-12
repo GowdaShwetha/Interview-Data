@@ -19,7 +19,7 @@
 5. AptitudeTest (www.aptitudetest.com):
    - AptitudeTest offers a collection of aptitude questions, sample tests, and tips for improving aptitude skills.
 
-CODING
+# CODING
 
 1. GeeksforGeeks (www.geeksforgeeks.org):
    - GeeksforGeeks is a comprehensive platform with a vast collection of coding problems, data structures, algorithms, and interview-related content.
@@ -39,7 +39,8 @@ CODING
    - InterviewBit provides a structured curriculum for coding interview preparation. It covers topics like algorithms, data structures, and more.
    - The platform also offers mock interviews and company-specific preparation modules.
 
-COMMUNICATION
+
+# COMMUNICATION
 
 1. Toastmasters International (www.toastmasters.org):
    - Toastmasters is a global organization that focuses on developing public speaking and leadership skills. While local Toastmasters clubs may require a membership fee, the website offers valuable resources, tips, and materials for improving communication.
@@ -56,7 +57,7 @@ COMMUNICATION
 5. MindTools (www.mindtools.com):
    - MindTools offers a variety of resources for personal and professional development, including articles, worksheets, and tools related to communication skills. It covers areas such as effective communication, active listening, and giving feedback.
 
-JOBS & INTERNSHIPS
+# JOBS & INTERNSHIPS
 
 1. LinkedIn (www.linkedin.com):
 2. Work India app
@@ -64,7 +65,7 @@ JOBS & INTERNSHIPS
 4. Internshala (www.internshala.com):
 5. Monster India (www.monsterindia.com):
 
-Free Certificates and Courses:
+# Free Certificates and Courses:
 
 1. Coursera:
    - Website: [Coursera](https://www.coursera.org/)
