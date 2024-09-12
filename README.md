@@ -2,7 +2,7 @@
 
 #APTITUDE
 
-1. IndiaBIX [www.indiabix.com](www.indiabix.com):
+1. IndiaBIX (www.indiabix.com):
    - IndiaBIX provides a wide range of aptitude questions and answers, along with explanations.
    - It covers various topics such as quantitative aptitude, reasoning, verbal ability, and more.
 
