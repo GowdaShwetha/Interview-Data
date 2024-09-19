@@ -1,5 +1,5 @@
 # Interview-Data
-
+ 
 #APTITUDE
 
 1. IndiaBIX (www.indiabix.com):
